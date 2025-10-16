@@ -1,0 +1,9 @@
+2025-10-16 15:04:14,488 - Model - INFO - PARAMETER ...
+2025-10-16 15:04:14,488 - Model - INFO - Namespace(model='HyperQKAN', batch_size=24, epoch=100, learning_rate=0.01, gpu='0', optimizer='Adam', log_dir='HyperQKAN', decay_rate=0.0001, npoint=4096, step_size=10, lr_decay=0.7, test_area=5)
+2025-10-16 15:04:31,241 - Model - INFO - PARAMETER ...
+2025-10-16 15:04:31,241 - Model - INFO - Namespace(model='HyperQKAN', batch_size=24, epoch=100, learning_rate=0.01, gpu='0', optimizer='Adam', log_dir='HyperQKAN', decay_rate=0.0001, npoint=4096, step_size=10, lr_decay=0.7, test_area=5)
+2025-10-16 15:05:05,080 - Model - INFO - The number of training data is: 47623
+2025-10-16 15:05:05,085 - Model - INFO - The number of test data is: 18923
+2025-10-16 15:05:06,964 - Model - INFO - No existing model, starting training from scratch...
+2025-10-16 15:05:07,536 - Model - INFO - **** Epoch 1 (1/100) ****
+2025-10-16 15:05:07,536 - Model - INFO - Learning rate:0.010000
